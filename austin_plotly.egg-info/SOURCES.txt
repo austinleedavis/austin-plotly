@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+austin_plotly/__init__.py
+austin_plotly/plot.py
+austin_plotly.egg-info/PKG-INFO
+austin_plotly.egg-info/SOURCES.txt
+austin_plotly.egg-info/dependency_links.txt
+austin_plotly.egg-info/requires.txt
+austin_plotly.egg-info/top_level.txt
